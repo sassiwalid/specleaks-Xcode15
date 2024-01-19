@@ -8,7 +8,6 @@
 
 import Foundation
 import Nimble
-import Quick
 import RxSwift
 import RxCocoa
 

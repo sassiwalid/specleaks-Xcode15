@@ -7,7 +7,6 @@
 //
 
 import Nimble
-import Quick
 
 @testable import SpecLeaks
 

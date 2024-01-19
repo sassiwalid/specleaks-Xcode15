@@ -7,7 +7,6 @@
 //
 
 import Nimble
-import Quick
 import SpecLeaks
 
 //MARK: - Leaking

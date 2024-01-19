@@ -6,7 +6,6 @@
 //  Copyright © 2018 Leandro Perez. All rights reserved.
 //
 
-import Quick
 import Nimble
 import SpecLeaks
 
